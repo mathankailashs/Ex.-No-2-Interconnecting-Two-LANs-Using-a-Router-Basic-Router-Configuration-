@@ -15,10 +15,11 @@ ________________________________________
 •	Straight-through cables<br>
 ________________________________________
 # Network Topology Diagram
+
  Description:<br>
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
+<img width="1920" height="1080" alt="Screenshot 2026-07-24 134120" src="https://github.com/user-attachments/assets/51445765-8d4f-41b1-8e87-e5c047b1968c" />
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
@@ -54,7 +55,6 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-<img width="1920" height="1080" alt="Screenshot 2026-07-24 134120" src="https://github.com/user-attachments/assets/51445765-8d4f-41b1-8e87-e5c047b1968c" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-24 134200" src="https://github.com/user-attachments/assets/827f034a-967e-4e37-a386-a8cfbbacc75b" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-24 134212" src="https://github.com/user-attachments/assets/c0e37b41-4c6c-466d-88ae-597a98921ff2" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-24 134527" src="https://github.com/user-attachments/assets/9a5ebf5c-19f9-4d8b-91ab-a1162ff56e9d" />
